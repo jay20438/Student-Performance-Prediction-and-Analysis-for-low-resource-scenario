@@ -17,7 +17,7 @@ It is true that the marks in exams taken throughout
 the year play a vital role in estimating the
 performance of a student. But we wanted to understand
 the impact of other factors on the performance of the
-student. Factors like family income, extracurricular
+students. Factors like family income, extracurricular
 activities, parent's education level, illness and 
 distance from school can have a major impact on a
 student's performance.
