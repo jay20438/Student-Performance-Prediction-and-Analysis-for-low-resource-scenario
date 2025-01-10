@@ -7,7 +7,7 @@ inclination of students and therefore will help
 them in deciding their future career. Softwares,
 which try to identify the reason for a student's
 low performance may help in preventing students
-from losing their interest in studying.
+from losing their interest in their studies.
 
 We have used the dataset, which was gathered from 
 two portugese schools focussing on the portugese
