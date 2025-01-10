@@ -1,6 +1,6 @@
 # Student-Performance-Prediction-and-Analysis-for-low-resource-scenario
 
-Analysing the perfomance of students is a important
+Analysing the perfomance of students is important
 to understand them better. Developing softwares on 
 Student Performance Prediction helps in knowing the
 inclination of students and therefore will help 
